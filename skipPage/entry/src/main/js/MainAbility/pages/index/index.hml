@@ -1,0 +1,6 @@
+<div class="container">
+    <text class="title">
+        huawei
+    </text>
+    <button class='btn' onclick="goTwo">goTwo...</button>
+</div>

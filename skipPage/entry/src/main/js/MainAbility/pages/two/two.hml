@@ -1,0 +1,5 @@
+<div class="container" @click="back">
+    <text class="title">
+        gx
+    </text>
+</div>
